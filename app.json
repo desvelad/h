@@ -1,7 +1,7 @@
 
 {
-  "name": "GroupManager Bot",
-  "description": "Modular Telegram group management bot!",
+  "name": "GroupHelp Bot",
+  "description": "Modüler Telegram grup yönetimi botu!",
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  "repository": "https://github.com/Mehmetbaba06/Group_help/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
