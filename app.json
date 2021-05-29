@@ -1,6 +1,6 @@
 
 {
-  "name": "GroupHelp Bot",
+  "name": "RG Bot",
   "description": "Modüler Telegram grup yönetimi botu!",
   "logo": "https://i.ibb.co/khRz42f/Turkish-Voice.jpg",
   "keywords": [
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Mehmetbaba06/Group_help/",
+  "repository": "https://github.com/desvelad/h/",
   "env": {
     "ENV": {
       "description": "Bunu ANYTHING olarak ayarlamak env değişkenlerini etkinleştirir",
@@ -22,11 +22,11 @@
     },
     "OWNER_ID": {
       "description": "Sahibinizden oluşan bir tamsayı ID",
-      "value": "719195224"
+      "value": "1124589368"
     },
     "OWNER_USERNAME": {
       "description": "Kullanıcı adınız",
-      "value": "EfsaneStar"
+      "value": "Mehmett_12"
     },
   
     "URL": {
