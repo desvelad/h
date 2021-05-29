@@ -19,6 +19,6 @@ Destek grubumuza da katılabilirsiniz [here!](https://t.me/kanalEfsanestar)
 Sorununuzu adınızla birlikte[bu kişi](https://t.me/EfsaneStar)
 
 # Kredi
-Bu repo sadece özel bir çatal[HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
+Bu repo sadece özel bir çatal [Mehmetbaba06](https://github.com/Mehmetbaba06/Group_help)
 
 Sağ olsun.[Düzenleyen](https://t.me/EfsaneStar)!
