@@ -1,25 +1,24 @@
-# How to deploy?
-[Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
+# Nasıl dağıtılır?
+[Dağıtma hakkında video eğitimini izleyin](https://youtu.be/gXXFpTAk6Vo)
 
-# GroupManager
+# GrupManager
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
 
-A modular Telegram Python bot running on python3 with an sqlalchemy database.
-
-Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
+Sqlalchemy veritabanına sahip python3 üzerinde çalışan modüler bir Telegram Python botu.
+Telgrafta şu şekilde bulunabilir:[GroupManager](https://t.me/tg_groupmanagerbot).
 
 Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support questions in the support chat, where more people can help you.)
 
 You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
 
-# Group
-[Join Discuss Group](https://t.me/giveaways_24hrs)
+# grup
+[Tartışma Grubuna Katıl](https://t.me/sohbetskyfall)
 
-# Report error
-Report your problem along with your name to [this person](https://t.me/xditya)
+# Rapor hatası
+Sorununuzu adınızla birlikte[bu kişi](https://t.me/EfsaneStar)
 
-# Credits
-This repo is just a custom fork of [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
+# Kredi
+Bu repo sadece özel bir çatal[HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
 
-Thanks to the [real developer](https://t.me/RealAkito)!
+Sağ olsun.[Düzenleyen](https://t.me/EfsaneStar)!
