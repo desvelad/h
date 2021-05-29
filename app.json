@@ -33,15 +33,15 @@
       "value": ""
     },
     "MESSAGE_DUMP": {
-      "description": "optional: isteğe bağlı: yanıtlanan kaydedilmiş iletilerinizin depolandığı bir sohbet, insanların eski mesajlarını silmelerini durdurmak için",
+      "description": "opsiyonel: isteğe bağlı: yanıtlanan kaydedilmiş iletilerinizin depolandığı bir sohbet, insanların eski mesajlarını silmelerini durdurmak için",
       "value": "-1007777777777"
     },
     "SUDO_USERS": {
-      "description": "A space separated list of user_ids which should be considered sudo users",
+      "description": "Sudo kullanıcıları olarak kabul edilmesi gereken user_ids alan ayrılmış listesi",
       "value": "254318997 683538773 719195224 570400686 466337795"
     },
     "SUPPORT_USERS": {
-      "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
+      "description": "Destek kullanıcıları olarak kabul edilmesi gereken user_ids ayrılmış bir listesi(can gban/ungban, nothing else)",
       "value": "254318997 683538773 570400686 719195224 466337795"
     },
     "WHITELIST_USERS": {
