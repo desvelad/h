@@ -45,11 +45,11 @@
       "value": "254318997 683538773 570400686 719195224 466337795"
     },
     "WHITELIST_USERS": {
-      "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
+      "description": "Beyaz listeye alınmış olarak kabul edilmesi gereken user_ids alan ayrılmış listesi - yasaklanamaz.",
       "value": "254318997 683538773 570400686 466337795"
     },
     "DONATION_LINK": {
-      "description": "Optional: link where you would like to receive donations.",
+      "description": "Opsiyonel: bağış almak istediğiniz bağlantı.",
       "value": "https://www.paypal.me/Your_id_here"
     },
     "PORT": {
