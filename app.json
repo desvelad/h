@@ -12,11 +12,11 @@
   "repository": "https://github.com/Mehmetbaba06/Group_help/",
   "env": {
     "ENV": {
-      "description": "Setting this to ANYTHING will enable env variables",
+      "description": "Bunu ANYTHING olarak ayarlamak env değişkenlerini etkinleştirir",
       "value": "ANYTHING"
     },
     "TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "Dize belirteci API'si olarak bot belirteciniz.",
       "value": ""
     },
     "OWNER_ID": {
@@ -29,11 +29,11 @@
     },
   
     "URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+      "description": "Heroku Uygulaması URL'si https://<appname>.herokuapp.com/",
       "value": ""
     },
     "MESSAGE_DUMP": {
-      "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
+      "description": "optional: isteğe bağlı: yanıtlanan kaydedilmiş iletilerinizin depolandığı bir sohbet, insanların eski mesajlarını silmelerini durdurmak için",
       "value": "-1007777777777"
     },
     "SUDO_USERS": {
