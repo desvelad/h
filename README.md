@@ -6,7 +6,7 @@
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
 
 Sqlalchemy veritabanına sahip python3 üzerinde çalışan modüler bir Telegram Python botu.
-Telgrafta şu şekilde bulunabilir:[GroupManager](https://t.me/tg_groupmanagerbot).
+Telgrafta şu şekilde bulunabilir:[GroupManager](https://github.com/Mehmetbaba06/Group_help).
 
 Alternatif olarak, [beni telgrafta bulmak](https://t.me/EfsaneStar)! (Tüm destek sorularını, daha fazla kişinin size yardımcı olabileceği destek sohbetinde tutun.)
 
