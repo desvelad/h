@@ -3,7 +3,7 @@
 
 # GrupManager
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Mehmetbaba06/Group_help)
 
 Sqlalchemy veritabanına sahip python3 üzerinde çalışan modüler bir Telegram Python botu.
 Telgrafta şu şekilde bulunabilir:[Grouphelp Botu ](https://github.com/Mehmetbaba06/Group_help).
