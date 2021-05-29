@@ -20,12 +20,12 @@
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
+      "description": "Sahibinizden oluşan bir tamsayı ID",
       "value": "719195224"
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
-      "value": "xditya"
+      "description": "Kullanıcı adınız",
+      "value": "EfsaneStar"
     },
   
     "URL": {
