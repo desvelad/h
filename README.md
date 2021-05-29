@@ -8,9 +8,9 @@
 Sqlalchemy veritabanına sahip python3 üzerinde çalışan modüler bir Telegram Python botu.
 Telgrafta şu şekilde bulunabilir:[GroupManager](https://t.me/tg_groupmanagerbot).
 
-Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatif olarak, [beni telgrafta bulmak](https://t.me/EfsaneStar)! (Tüm destek sorularını, daha fazla kişinin size yardımcı olabileceği destek sohbetinde tutun.)
 
-You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
+Destek grubumuza da katılabilirsiniz [here!](https://t.me/kanalEfsanestar)
 
 # grup
 [Tartışma Grubuna Katıl](https://t.me/sohbetskyfall)
