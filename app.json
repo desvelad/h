@@ -53,23 +53,23 @@
       "value": "https://www.paypal.me/Your_id_here"
     },
     "PORT": {
-      "description": "Port to use for your webhooks",
+      "description": "Web kancanız için kullanılacak bağlantı noktası",
       "value": "8443"
     },
     "DEL_CMDS": {
-      "description": "Whether to delete commands from users which don't have rights to use that command",
+      "description": "Bu komutu kullanma hakkı olmayan kullanıcılardan komutların silinip silinmeyeceği",
       "value": "True"
     },
     "STRICT_GBAN": {
-      "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
+      "description": "Yeni grupların yanı sıra eski gruplar arasında gbanları zorunlu knın. Gbanned bir kullanıcı konuştuğunda, yasaklanacak.",
       "value": "True"
     },
     "ALLOW_EXCL": {
-      "description": "Whether to allow using exclamation marks ! for commands as well as /.",
+      "description": "Ünlem işaretleri kullanılmasına izin verilip veilmeyeceği ! komutların yanı sıra /.",
       "value": "True"
     },
     "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
+      "description": "İnsanları yasaklarken hangi çıkartmayı kullanacağız. kullanmak https://telegram.dog/ShowJsonBot to get the file_id",
       "value": "CAADBQADNwEAAjZzSxRZAc49mnFSSAI"
     }
   },
